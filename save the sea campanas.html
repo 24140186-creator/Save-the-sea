@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Save the Seas (STS)</title>
+  <style>
+    body{font-family:Poppins,Arial,sans-serif;margin:0;background:#f0f9ff;color:#033E5B}
+    header{background:#0A84C6;color:#fff;text-align:center;padding:30px 10px}
+    main{padding:40px 10%}
+    .campaign{background:#fff;border-radius:20px;box-shadow:0 5px 12px rgba(0,0,0,.1);margin:30px 0;padding:25px}
+    .campaign img{width:100%;height:250px;background:#d9f3ff;border-radius:15px;object-fit:cover;margin-top:15px;border:2px dashed #0A84C6}
+    .details{font-size:.95em;line-height:1.6}
+    footer{padding:25px;text-align:center;background:#033E5B;color:#fff;margin-top:40px}
+    a{color:inherit}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Save the Seas (STS)</h1>
+    <p>Promoviendo campañas para proteger nuestros mares y playas</p>
+  </header>
+
+  <main>
+    <h2>Próximas Campañas</h2>
+
+    <div class="campaign">
+      <h3>1️⃣ Limpieza de Playa Bahía Azul</h3>
+      <p class="details"><strong>Lugar:</strong> Playa Bahía Azul, Veracruz<br>
+      <strong>Fecha:</strong> 12 de diciembre, 2025<br>
+      <strong>Hora:</strong> 8:00 a.m. - 1:00 p.m.<br>
+      <strong>Actividad:</strong> Recolección de desechos y charla ambiental.</p>
+      <img src="https://mexicotrip.mx/uploads/images/202504/image_870x_680940dedfd38.webp" alt="Limpieza de Playa">
+    </div>
+
+    <div class="campaign">
+      <h3>2️⃣ Liberación de Tortugas en Playa Dorada</h3>
+      <p class="details"><strong>Lugar:</strong> Playa Dorada, Oaxaca<br>
+      <strong>Fecha:</strong> 19 de diciembre, 2025<br>
+      <strong>Hora:</strong> 6:30 a.m. - 10:00 a.m.<br>
+      <strong>Actividad:</strong> Liberación de tortugas marinas.</p>
+      <img src="https://www.puerto-escondido.mx/data/uploads/2023/12/IMG_20211217_172125-1-scaled.jpg" alt="Liberacion de tortugas">
+    </div>
+
+    <div class="campaign">
+      <h3>3️⃣ Jornada Educativa “Guardianes del Mar”</h3>
+      <p class="details"><strong>Lugar:</strong> Centro Ecológico STS, Cancún<br>
+      <strong>Fecha:</strong> 8 de enero, 2026<br>
+      <strong>Hora:</strong> 9:00 a.m. - 2:00 p.m.<br>
+      <strong>Actividad:</strong> Talleres y actividades de reciclaje.</p>
+      <img src="https://www.hablamosdeeducacion.es/uploads/media/16-9-large/09/8499-8%20actividades%20de%20educaci%C3%B3n%20ambiental%20para%20hacer%20enClase%2001.jpg" alt="Jornada educativa">
+    </div>
+
+    <div class="campaign">
+      <h3>4️⃣ Expedición Submarina de Limpieza</h3>
+      <p class="details"><strong>Lugar:</strong> Parque Marino Los Arrecifes, Cozumel<br>
+      <strong>Fecha:</strong> 20 de enero, 2026<br>
+      <strong>Hora:</strong> 7:00 a.m. - 12:00 p.m.</p>
+      <img src="https://www.dresseldivers.com/wp-content/uploads/3.How-Much-of-the-Sea-Has-Been-Explored-Exploracion-submarina.jpg" alt="Expedicion submarina">
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2025 Save the Seas (STS) | Unidos por un océano limpio</p>
+    <p>Contacto: <a href="mailto:info@savetheseas.org">info@savetheseas.org</a></p>
+  </footer>
+</body>
+</html>
